@@ -1,4 +1,4 @@
-An alphabetical list of maintainers for Diamond Bluff by last name:
+An alphabetical list of maintainers for the OPI Project by last name:
 
 * [Boris Glimcher](https://github.com/glimchb)
 * [Kyle Mestery](https://github.com/mestery)

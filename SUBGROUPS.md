@@ -12,9 +12,9 @@
 
 ## Organization Group
    * Description & Responsibilities
-      * The Org group exists to facilitate the general administration of Diamond
-        Bluff’s shared files, membership information, group deliverables, main
-        meeting, main meeting agenda, meeting minutes, meeting recordings,
+      * The Org group exists to facilitate the general administration of the
+        OPI Project’s shared files, membership information, group deliverables,
+        main meeting, main meeting agenda, meeting minutes, meeting recordings,
         GitHub rights, and community standards.
    * Alignment to project goal(s) 
       * The Organization group is helping to create a community-driven standards-
@@ -59,9 +59,9 @@
 ## Minimum Requirements group
    * Description & Responsibilities
       * This group is defining a set of minimum requirements for D/IPU devices
-        that the Diamond Bluff software frameworks and APIs will interoperate
+        that the OPI Project software frameworks and APIs will interoperate
         with.  Devices that do not meet these requirements may still use the
-        Diamond Bluff components, but there may be deficiencies due to missing
+        OPI Project components, but there may be deficiencies due to missing
         capabilities in the base hardware platform.
    * Alignment to project goal(s) -- N/A
    * Leader

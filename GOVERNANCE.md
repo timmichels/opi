@@ -1,47 +1,48 @@
-# Diamond Bluff
+# Open Programmable Infrastructure Project
 
-For an idea of what the goals of the Diamond Bluff project are, please see the
+For an idea of what the goals of the OPI Project are, please see the
 [high level overview document](README.md).
 
 ## Governance
 
 ### Governance Goals
 
-The goal of governance for the Diamond Bluff project is to maintain and
-emphasize a technical meritocracy of contributors. Those who contribute the
-most and the best technical solutions, while supporting all contirbutors, have
-the most influence in the technical direction of the project. At the same
-time, a [Board of Directors](#Board of Directors) is established with it's
-own set of responsibilities, to help manage the Diamond Bluff project.
+The goal of governance for the OPI Project is to maintain and emphasize a
+technical meritocracy of contributors. Those who contribute the most and the
+best technical solutions, while supporting all contirbutors, have the most
+influence in the technical direction of the project. At the same time, a
+[Board of Directors](#Board of Directors) is established with it's own set of
+responsibilities, to help manage the OPI Project.
 
 ## Membership
 
-The Diamond Bluff project is composed of Platinum, Silver, and Participating
-Academic/Nonprofit members. All Platinum and Silver members must be current corporate
-members of the hosting foundation (e.g. Linux Foundation or Open Infrastructure
-Foundation) at any level to participate in the Diamond Bluff project.
+The OPI Project is composed of Platinum, Silver, and Participating
+Academic/Nonprofit members. All Platinum and Silver members must be current
+corporate members of the hosting foundation (Linux Foundation) at any level to
+participate in the OPI Project.
 
-Platinum, Silver, and Participating Academic/Nonprofit Members shall be entitled to:
+Platinum, Silver, and Participating Academic/Nonprofit Members shall be
+entitled to:
 
-* Participate in the Diamond Bluff Project meetings, initiatives, events, and
-  any other activities.
-* Identify their company or academic/nonprofit institution as a member or participant in
-  the Diamond Bluff project.
+* Participate in the OPI Project meetings, initiatives, events, and any other
+  activities.
+* Identify their company or academic/nonprofit institution as a member or
+  participant in the OPI Project.
 * Platinum members shall be entitled to appoint a representative to the
-  Board of Directors of the Diamond Bluff project, as well as any future
-  committees established by the Board of Directors.
+  Board of Directors of the OPI Project, as well as any future committees
+  established by the Board of Directors.
 
 ## Structure
 
-At a high level, the Diamond Bluff project is governed by two main bodies which
-work together to achieve the project's goals:
+At a high level, the OPI Project is governed by two main bodies which work
+together to achieve the project's goals:
 
 * A Board of Directors
 * A Technical Steering Committee
 
 ### Board of Directors
 
-The Diamond Bluff project Board of Directors shall be composed as follows:
+The OPI Project Board of Directors shall be composed as follows:
 
 * One representative from each Platinum member.
 * One Silver member representative elected annually by the Silver members for
@@ -52,9 +53,9 @@ The Board of Directors shall have the following responsibilities:
 
 * Approve a budget directing the use of funds raised from all sources of
   revenue.
-* Elect a Chair of the Diamond Bluff project to preside over meetings,
-  authorize expenditures approved by the budget, and manage any day-to-day
-  operations, and vote on decisions or matters before the Board of Directors.
+* Elect a Chair of the OPI Project to preside over meetings, authorize
+  expenditures approved by the budget, and manage any day-to-day operations,
+  and vote on decisions or matters before the Board of Directors.
 
 The Board of Directors shall:
 
@@ -67,13 +68,14 @@ The Board of Directors shall:
   community.
 * Respect the rights of all trademark owners, including any branding and usage
   guidelines.
-* Engage the project's foundation for all press and analyst relations activities.
+* Engage the project's foundation for all press and analyst relations
+  activities.
 * Upon request, provide information regarding project participation, including
   information regarding attendance at project-sponsored events, to the
   project's foundation.
-* Engage the project's foundation for any Diamond Bluff project websites, and
+* Engage the project's foundation for any OPI Project websites, and
   operate under such rules and procedures as may from time to time be approved
-  by the Diamond Bluff Board of Directors and confirmed by the project's
+  by the OPI Project Board of Directors and confirmed by the project's
   foundation.
 
 For any of the above responsibilities, the Board may delegate their powers to
@@ -81,10 +83,10 @@ one or more parties as appropriate and necessary, under terms set by the Board.
 
 ### Technical Steering Committee
 
-Members of the Diamond Bluff Technical Steering Committee (TSC) decide
-technical matters that affect the entire project, administer joint
-project-wide technical resources, and act as a final arbiter of technical
-matters that are not decided inside individual sub-projects.
+Members of the OPI Project Technical Steering Committee (TSC) decide technical
+matters that affect the entire project, administer joint project-wide technical
+resources, and act as a final arbiter of technical matters that are not decided
+inside individual sub-projects.
 
 #### TSC Membership
 
@@ -96,12 +98,12 @@ employees of sponsoring organizations.
 During the first year of of the project, The TSC shall be composed as follows:
 
 * One appointed representative from each Platinum member
-* One maintainer from each Diamond Bluff sub-project, selected by the Board
+* One maintainer from each OPI Project sub-project, selected by the Board
 
-Starting one year after the launch of the Diamond Bluff governance, the TSC
+Starting one year after the launch of the OPI Project governance, the TSC
 composition will become:
 
-* Two maintainers from each Diamond Bluff sub-project
+* Two maintainers from each OPI Project sub-project
 * Two technical contributors appointed by the Board
 
 Membership in the TSC will gradually transition to a model of elected
@@ -119,17 +121,17 @@ Conduct Committee.
 
 #### TSC Responsibilities
 
-The responsibilities of the Diamond Bluff Technical Steering Committee are
-as follows:
+The responsibilities of the OPI Project Technical Steering Committee are as
+follows:
 
-* Coordinating the technical direction of the Diamond Bluff Project
-* Nominating and reviewing new sub-projects for creation under the Diamond
-  Bluff organization after final approval by the Board.
+* Coordinating the technical direction of the OPI Project
+* Nominating and reviewing new sub-projects for creation under the OPI Project
+  organization after final approval by the Board.
 * Confirming selected maintainers in the sub-projects, and ensuring they have
   the technical support necessary to be successful in their role as a
   maintainer.
-* Communicating with external and industry organizations concering Diamond
-  Bluff technical matters.
+* Communicating with external and industry organizations concering OPI Project
+  technical matters.
 * Appointing represenatives to work with other open source or open standards
   communities.
 * Voting on technical matters relating to any common code base or
@@ -148,7 +150,7 @@ or more parties as appropriate and necessary, under terms set by the TSC.
 #### TSC Meetings
 
 The TSC shall hold one or more public meetings each month. All contributors
-to, or sponsors of, Diamond Bluff shall be entitled to attend these meetings.
+to, or sponsors of, the OPI Project shall be entitled to attend these meetings.
 Public meetings will have a public agenda to which members of the community may
 reasonably add items.
 
@@ -164,7 +166,13 @@ the TSC, or they may be outside parties (paid or unpaid) with expertise in code
 of conduct (CoC) enforcement, or just members of the community. The CoCC should
 be selected to represent the diversity of the community.
 
-The CoCC will establish fair and standard processes for handling reports of violations of the CoC, as well as a system of remedies, in order to protect the well-being of the project. The CoCC will recommend the appropriate resolution to the Board, up to and including the removal of any individual from participation, either temporarily or permanently. Should a member of the CoCC itself be accused of a violation, that accusation will be handled by an individual appointed by the foundation.
+The CoCC will establish fair and standard processes for handling reports of
+violations of the CoC, as well as a system of remedies, in order to protect the
+well-being of the project. The CoCC will recommend the appropriate resolution
+to the Board, up to and including the removal of any individual from
+participation, either temporarily or permanently. Should a member of the CoCC
+itself be accused of a violation, that accusation will be handled by an
+individual appointed by the foundation.
 
 ## Voting
 
@@ -182,8 +190,8 @@ to be selected and approved by the Board.
 
 The Board of Directors shall approve an annual budget and never commit to spend
 in excess of funds raised. The budget shall be consistent with the non-profit
-mission of the Diamond Bluff project's foundation. The foundation shall provide
-regular reports of spend levels against the budget.
+mission of the OPI Project's foundation. The foundation shall provide regular
+reports of spend levels against the budget.
 
 ## Amendments
 This governing document may be amended by a super majority vote of all Board

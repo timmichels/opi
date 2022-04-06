@@ -1,11 +1,11 @@
 
-# **Diamond Bluff Vision Statement**
+# **Open Programmable Infrastructure Project Vision Statement**
 
-The objective of the Diamond Bluff initiative is to foster a community-driven
+The objective of the OPI initiative is to foster a community-driven
 standards-based open ecosystem for next generation architectures and
 frameworks based on DPU/IPU-like technologies.
 
-# **Diamond Bluff Project Goals**
+# **OPI Project Goals**
 
 * Create community-driven standards-based open ecosystem for DPU/IPU-like
   technologies
@@ -17,7 +17,7 @@ frameworks based on DPU/IPU-like technologies.
 
 For more details, see the full [page](GOALS.md).
 
-# **Diamond Bluff Project Backgrounder**
+# **OPI Project Backgrounder**
 
 A new class of cloud and datacenter infrastructure is emerging into the
 marketplace. This new infrastructure element, often referred as Data Processing
@@ -97,14 +97,14 @@ closed, walled garden, single vendor offering? Or will it be an open,
 collaborative, multi-vendor, innovation driven, ecosystem similar to what has
 occurred with the Kubernetes and Container environments?
 
-The Diamond Bluff project is being created to address these questions and to
-foster the emergence of such an open and creative software eco-system for
-DPU/IPU based cloud infrastructure. The project intends to delineate what a
-DPU/IPU is, to loosely define a framework(s) and architecture for a
-DPU/IPU-based software stack(s) applicable to any vendors hardware solution,
-to allow the creation of a rich open source application ecosystem, to integrate
-with existing open source projects aligned to the same vision such as the Linux
-kernel, [IPDK.io](https://ipdk.io), [DPDK](https://www.dpdk.org/) and
+The OPI project is being created to address these questions and to foster the
+emergence of such an open and creative software eco-system for DPU/IPU based
+cloud infrastructure. The project intends to delineate what a DPU/IPU is, to
+loosely define a framework(s) and architecture for a DPU/IPU-based software
+stack(s) applicable to any vendors hardware solution, to allow the creation of
+a rich open source application ecosystem, to integrate with existing open
+source projects aligned to the same vision such as the Linux kernel,
+[IPDK.io](https://ipdk.io), [DPDK](https://www.dpdk.org/) and
 [SPDK](https://spdk.io/) to create new APIs for interaction with and between
 the elements of the DPU/IPU ecosystem:
 
