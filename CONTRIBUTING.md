@@ -2,7 +2,7 @@
 
 OPI uses GitHub to manage reviews of pull requests.
 
-* If you are a new contributor see: [Steps to Contribute](#steps-to-contribute)
+* If you are a new contributor see: [Steps to Contribute](#steps-to-contribute) and [GitHub Basic Process](doc-github-rules.md) for more details.
 
 * If you have a trivial fix or improvement, go ahead and create a pull request,
   addressing (with `@...`) a suitable maintainer of this repository (see
@@ -18,7 +18,7 @@ from contributors on the same issue.
 
 ## Pull Request Checklist
 
-* Branch from the main branch and, if needed, rebase to the current main branch
+* Branch or fork (preferred) from the main branch and, if needed, rebase to the current main branch
   before submitting your pull request. If it doesn't merge cleanly with main
   you may be asked to rebase your changes.
 
