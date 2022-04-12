@@ -55,29 +55,18 @@ For more information, see [Creating a pull request from a fork](https://docs.git
 
 If you use the Github desktop app, see [Creating an issue or pull request](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request). 
 
-## Create a Pull Request from a branch in the original repository
-
-> [!WARNING] 
-> This approach is for contributors that have write access to the original repository and should be used sparingly. Excessive "topic branches" can clutter the main repository. 
-
-You create a branch off the original repository and then create a PR based on this branch. 
-
-For more information, see [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). 
-
-If you use the Github desktop app, see [Creating an issue or pull request](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request). 
 
 ## PR Review Phase
 Pull requests generally are open to community review and get accepted as-is or with requested changes. The more impactful the changes, the more review activity is to be expected.
 
 ## PR Accept Phase
-Once a PR has received sufficient review and concerns are satisfied, a designated person with sufficient [permissions](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-roles-for-an-organization#permissions-for-each-role) can accept the Pull Request. 
+Once a PR has received sufficient review and concerns are satisfied, a designated [Maintainer](MAINTAINERS.md) with sufficient [permissions](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-roles-for-an-organization#permissions-for-each-role) can accept the Pull Request. 
 
 ## Directly Editing Artifacts
 Contributors with write access permission or higher have rights to directly edit documents and push changes. This practice should be used very sparingly, and only in the draft stages of documents, or to make trivial changes in documents already in use.
 
 > [!WARNING]
 > Direct edits (without proper review phases) to "released" documents short-circuits the normal community process and can result in breaking changes and significant disruption, resulting in potential impact to downstream consumers.
-
 
 ## Use checklists for large issues or PRs
 
