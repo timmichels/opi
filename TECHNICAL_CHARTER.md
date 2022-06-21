@@ -1,6 +1,6 @@
 **Technical** **Charter (the “Charter”)**
 
-**for **
+**for**
 
 **Open Programmable Infrastructure Project a Series of LF Projects, LLC**
 
