@@ -19,7 +19,7 @@ This document describes a short process to effectively use GitHub to achieve the
 3. Making improvement suggestions.
 
 > [!NOTE]
-> The intent of this document is not to teach the use of GitHub. The document just gathers some basic rules for a quick reference. 
+> The intent of this document is not to teach the use of GitHub. The document just gathers some basic rules for a quick reference.
 
 ## Create issues
 
@@ -41,7 +41,7 @@ You fork a repository to propose changes to the original repository. This is the
 
 For more information, see [Fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
-If you use the Github desktop app, see [Cloning and forking repositories from GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop). 
+If you use the Github desktop app, see [Cloning and forking repositories from GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop).
 
 It's good practice to regularly sync your fork with the original repository.
 For more information, see [Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
