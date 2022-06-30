@@ -17,7 +17,7 @@
     OPI Project’s shared files, membership information, group deliverables,
     main meeting, main meeting agenda, meeting minutes, meeting recordings,
     GitHub rights, and community standards.
-* Alignment to project goal(s) 
+* Alignment to project goal(s)
   * The Organization group is helping to create a community-driven standards-
     based open ecosystem for DPU/IPU-like technologies.
 * Leader
@@ -170,7 +170,7 @@
 * Leader
   * Kris Murphy
 * Meeting Time & Date
- * TBD
+  * TBD
 * Slack Channel
   * [orientation-subgroup](https://opi-project.slack.com/archives/C03366FT5GW)
 * Status
