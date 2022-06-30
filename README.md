@@ -114,7 +114,7 @@ the elements of the DPU/IPU ecosystem:
 * remote provisioning software
 * remote orchestration software
 
-# I Want To Contribute!
+# I Want To Contribute
 
 This project welcomes contributions and suggestions.  We are happy to have the Community involved via submission of **Issues and Pull Requests** (with substantive content or even just fixes). We are hoping for the documents, test framework, etc. to become a community process with active engagement.  PRs can be reviewed by by any number of people, and a maintainer may accept.
 

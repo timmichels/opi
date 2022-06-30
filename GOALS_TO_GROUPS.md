@@ -1,7 +1,5 @@
 # Map of Goals to Sub-groups
 
-
-
 |                                                        |   Org   |   Vision   |   POC   |   Legal   |   PROV   |   API   | Event     |   Orient   |   Use Case   |
 | ------------------------------------------------------ | :-----: | :--------: | :-----: | :-------: | :------: | :-----: | --------- | :--------: | :----------: |
 | **Community Goals**                                    |         |            |         |           |          |         |           |            |              |
@@ -34,4 +32,3 @@
 | Create technical papers                                |         |            |    X    |           |    X     |    X    |           |            |              |
 | Provide sample service implementations                 |         |            |    X    |           |          |         |           |            |      X       |
 | Develop PoC/Simulation/Test environments               |         |            |    X    |           |          |         |           |            |              |
-
