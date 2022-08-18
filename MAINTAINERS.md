@@ -63,10 +63,17 @@ The process to grant someone the maintainer role is simple:
 
 ### Revoking Maintainer Rights
 
-When a maintainer acts in a way which is either detrimental to the OPI project,
-it raises a situation which needs to be handled quickly to ensure the long-term
-success and stability of the project. It is possible the maintainer in question
-will have their maintainer rights removed. The process for this is as follows:
+There are times when a maintainer will be removed in a peaceful way. For
+example, the maintainers may decide that someone should not have merge rights
+due to their lack of git knowledge. In this case, the maintainers can talk
+to this indvidual and work to revoke their maintainer access.
+
+However, there are times when a maintainer may need to be forcefully
+removeed. When a maintainer acts in a way which is either detrimental to the
+OPI project, it raises a situation which needs to be handled quickly to ensure
+the long-term success and stability of the project. It is possible the
+maintainer in question will have their maintainer rights removed. The process
+for this is as follows:
 
 * Discuss with the individual privately about the concerns. Use email for this,
   sticking to the facts, and try to reach a resolution on the individuals.
